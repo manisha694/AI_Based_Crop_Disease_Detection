@@ -34,10 +34,9 @@ An intelligent system that leverages AI and deep learning to detect crop disease
 | Layer        | Technology            |
 |--------------|------------------------|
 | Frontend     | React.js, Tailwind CSS |
-| Backend      | Node.js, Express.js    |
-| AI Model     | TensorFlow / PyTorch   |
+| Backend      | Node.js, Express.js    |   |
 | Database     | MongoDB                |
-| Deployment   | AWS / Firebase         |
+| Deployment   | AWS / Firebase/vercel  |         |
 
 ---
 
